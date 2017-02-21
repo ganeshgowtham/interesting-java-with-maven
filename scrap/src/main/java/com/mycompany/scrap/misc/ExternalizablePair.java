@@ -1,5 +1,7 @@
 package com.mycompany.scrap.misc;
-
+/**
+ * 
+ */
 import java.io.Externalizable;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
