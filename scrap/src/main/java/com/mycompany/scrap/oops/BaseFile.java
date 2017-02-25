@@ -12,8 +12,8 @@ public abstract class BaseFile implements SendableFile {
 		System.out.println("i am from basefile staticMethod");
 
 	}
-	
-	public void nonStaticMethod(){
+
+	public void nonStaticMethod() {
 		System.out.println("i am from basefile nonStaticMethod");
 	}
 

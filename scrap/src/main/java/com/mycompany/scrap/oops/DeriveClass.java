@@ -13,4 +13,12 @@ public class DeriveClass extends AbstractCoreFile {
 		return null;
 	}
 
+	@Override
+	protected void doEncrpt() {
+		// TODO Auto-generated method stub
+		super.doEncrpt(); // 1 and 2 
+		// 3
+		//4 
+	}
+
 }
