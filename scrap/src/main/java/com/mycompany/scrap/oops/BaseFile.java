@@ -8,7 +8,8 @@ public abstract class BaseFile implements SendableFile {
 
 	private boolean secured;
 
-	public static void staticMethod() {
+	public static void staticMethod()
+	{
 		System.out.println("i am from basefile staticMethod");
 
 	}
